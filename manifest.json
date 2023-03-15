@@ -1,0 +1,12 @@
+{
+    "name": "Weather data",
+    "version": "1.0.0",
+    "description": "current Weather data",
+    "manifest_version": 3,
+    "author": "Gaurav Khatri",
+    "permissions": [ "geolocation" ],
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Current weather"
+    }
+}
